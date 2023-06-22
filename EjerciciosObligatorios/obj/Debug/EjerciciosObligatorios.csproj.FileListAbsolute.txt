@@ -1,0 +1,8 @@
+C:\gaspar\POO\EjerciciosObligatorios\bin\Debug\EjerciciosObligatorios.exe.config
+C:\gaspar\POO\EjerciciosObligatorios\bin\Debug\EjerciciosObligatorios.exe
+C:\gaspar\POO\EjerciciosObligatorios\bin\Debug\EjerciciosObligatorios.pdb
+C:\gaspar\POO\EjerciciosObligatorios\obj\Debug\EjerciciosObligatorios.csproj.AssemblyReference.cache
+C:\gaspar\POO\EjerciciosObligatorios\obj\Debug\EjerciciosObligatorios.csproj.SuggestedBindingRedirects.cache
+C:\gaspar\POO\EjerciciosObligatorios\obj\Debug\EjerciciosObligatorios.csproj.CoreCompileInputs.cache
+C:\gaspar\POO\EjerciciosObligatorios\obj\Debug\EjerciciosObligatorios.exe
+C:\gaspar\POO\EjerciciosObligatorios\obj\Debug\EjerciciosObligatorios.pdb

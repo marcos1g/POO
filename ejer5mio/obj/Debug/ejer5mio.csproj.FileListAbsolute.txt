@@ -1,0 +1,8 @@
+C:\gaspar\POO\ejer5mio\bin\Debug\ejer5mio.exe.config
+C:\gaspar\POO\ejer5mio\bin\Debug\ejer5mio.exe
+C:\gaspar\POO\ejer5mio\bin\Debug\ejer5mio.pdb
+C:\gaspar\POO\ejer5mio\obj\Debug\ejer5mio.csproj.AssemblyReference.cache
+C:\gaspar\POO\ejer5mio\obj\Debug\ejer5mio.csproj.SuggestedBindingRedirects.cache
+C:\gaspar\POO\ejer5mio\obj\Debug\ejer5mio.csproj.CoreCompileInputs.cache
+C:\gaspar\POO\ejer5mio\obj\Debug\ejer5mio.exe
+C:\gaspar\POO\ejer5mio\obj\Debug\ejer5mio.pdb

@@ -1,0 +1,8 @@
+C:\gaspar\POO\exp\bin\Debug\exp.exe.config
+C:\gaspar\POO\exp\bin\Debug\exp.exe
+C:\gaspar\POO\exp\bin\Debug\exp.pdb
+C:\gaspar\POO\exp\obj\Debug\exp.csproj.AssemblyReference.cache
+C:\gaspar\POO\exp\obj\Debug\exp.csproj.SuggestedBindingRedirects.cache
+C:\gaspar\POO\exp\obj\Debug\exp.csproj.CoreCompileInputs.cache
+C:\gaspar\POO\exp\obj\Debug\exp.exe
+C:\gaspar\POO\exp\obj\Debug\exp.pdb
