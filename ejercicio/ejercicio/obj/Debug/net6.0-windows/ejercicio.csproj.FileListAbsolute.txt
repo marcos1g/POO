@@ -1,0 +1,17 @@
+C:\gaspar\forms\ejercicio\ejercicio\bin\Debug\net6.0-windows\ejercicio.exe
+C:\gaspar\forms\ejercicio\ejercicio\bin\Debug\net6.0-windows\ejercicio.deps.json
+C:\gaspar\forms\ejercicio\ejercicio\bin\Debug\net6.0-windows\ejercicio.runtimeconfig.json
+C:\gaspar\forms\ejercicio\ejercicio\bin\Debug\net6.0-windows\ejercicio.dll
+C:\gaspar\forms\ejercicio\ejercicio\bin\Debug\net6.0-windows\ejercicio.pdb
+C:\gaspar\forms\ejercicio\ejercicio\obj\Debug\net6.0-windows\ejercicio.csproj.AssemblyReference.cache
+C:\gaspar\forms\ejercicio\ejercicio\obj\Debug\net6.0-windows\ejercicio.Form1.resources
+C:\gaspar\forms\ejercicio\ejercicio\obj\Debug\net6.0-windows\ejercicio.csproj.GenerateResource.cache
+C:\gaspar\forms\ejercicio\ejercicio\obj\Debug\net6.0-windows\ejercicio.GeneratedMSBuildEditorConfig.editorconfig
+C:\gaspar\forms\ejercicio\ejercicio\obj\Debug\net6.0-windows\ejercicio.AssemblyInfoInputs.cache
+C:\gaspar\forms\ejercicio\ejercicio\obj\Debug\net6.0-windows\ejercicio.AssemblyInfo.cs
+C:\gaspar\forms\ejercicio\ejercicio\obj\Debug\net6.0-windows\ejercicio.csproj.CoreCompileInputs.cache
+C:\gaspar\forms\ejercicio\ejercicio\obj\Debug\net6.0-windows\ejercicio.dll
+C:\gaspar\forms\ejercicio\ejercicio\obj\Debug\net6.0-windows\refint\ejercicio.dll
+C:\gaspar\forms\ejercicio\ejercicio\obj\Debug\net6.0-windows\ejercicio.pdb
+C:\gaspar\forms\ejercicio\ejercicio\obj\Debug\net6.0-windows\ejercicio.genruntimeconfig.cache
+C:\gaspar\forms\ejercicio\ejercicio\obj\Debug\net6.0-windows\ref\ejercicio.dll
